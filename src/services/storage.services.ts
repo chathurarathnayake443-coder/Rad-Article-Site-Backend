@@ -1,0 +1,1 @@
+export const uploadImage = (file:Express.Multer.File, bucketName:string) => {}
